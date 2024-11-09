@@ -1,0 +1,43 @@
+.ebasa{
+    background-color: blue;
+    text-align: center;
+    padding:  30px 0px;
+   margin: 30px 0px;
+   width: 100%;
+   
+}
+.ebo1 img{
+   max-width: 100%;
+   padding: 5% 0%;
+}
+.p1, .p2, .p3{
+    width: 33%;
+    
+}
+.p1 img, .p2 img, .p3 img{
+    width: 100%;
+}
+.three{
+    display: flex;
+    margin: 5% 10%;
+}
+.p2{
+  margin:5px;
+    border: solid;
+    padding: 20px 2px;
+    font-size: larger;
+    text-align: center;
+}
+.t1, .t2{
+    width:40% ;
+    margin: 0px 30px;
+}
+.t1 img, .t2 img{
+    width: 100%;
+margin: auto;
+}
+.last{
+    display: flex;
+    justify-content: center;
+}
+
